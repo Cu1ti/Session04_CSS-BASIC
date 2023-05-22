@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(230, 229, 229);
+}
+#enter {
+    height: 300px;
+    width: 600px;
+    background-color: rgb(245, 227, 192);
+    margin: 10px auto;
+    padding: 10px;
+    text-align: left;
+    
+}
+#name {
+    font-size: 20px;
+    width: 100%;
+    margin-top:  10px;
+    margin-bottom: 10px;
+    border: none;
+}
+#email {
+    font-size: 20px;
+    width: 100%;
+    margin-top:  10px;
+    margin-bottom: 10px;
+    border: none;
+}
+#password {
+    font-size: 20px;
+    width: 100%;
+    margin-top:  10px;
+    margin-bottom: 10px;
+    border: none;
+}
+#cp {
+    font-size: 20px;
+    width: 100%;
+    margin-top:  10px;
+    margin-bottom: 10px;
+    border: none;
+}
+#button {
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #487ff5;
+    border: none;
+}
